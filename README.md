@@ -8,9 +8,7 @@ Install this application on Android -
 
 ## Getting Started
 
-Step-1: Download or clone this repository -
-
-    git clone https://github.com/aratheunseen/Daily-Task-Manager.git
+Step-1: Download or clone this repository
 
 Step-2: Go to project root and execute the following command in console to get the required dependencies:
 
